@@ -1,0 +1,10 @@
+body {
+    background-color: cadetblue;
+}
+
+footer {
+    background-color: darkblue;
+    color:ghostwhite
+    position: fixed;
+    bottom: 0;
+}
